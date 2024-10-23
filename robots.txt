@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://cateliaba.github.io/cateliaba.cateliaba
+Sitemap: https://cateliaba.github.io/app/cateliaba.cateliaba
+Sitemap: https://cateliaba.github.io/assets/cateliaba.cateliaba
+Sitemap: https://cateliaba.github.io/css/cateliaba.cateliaba
+Sitemap: https://cateliaba.github.io/includes/cateliaba.cateliaba
+Sitemap: https://cateliaba.github.io/item/cateliaba.cateliaba
+Sitemap: https://cateliaba.github.io/src/cateliaba.cateliaba
